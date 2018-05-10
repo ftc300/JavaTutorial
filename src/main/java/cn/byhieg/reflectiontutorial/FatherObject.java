@@ -7,7 +7,7 @@ package cn.byhieg.reflectiontutorial;
 public abstract class FatherObject implements Runnable{
 
 
-    protected String father = "";
+       protected String father = "";
     public void doSomething(){
         System.out.println("做事情......");
     }
